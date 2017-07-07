@@ -4,6 +4,6 @@
 
 - Hawaii
 - Mars
--North Pole
+- North Pole
 
 **Thanks!**
